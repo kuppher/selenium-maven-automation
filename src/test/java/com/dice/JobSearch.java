@@ -33,6 +33,8 @@ public class JobSearch {
 		
 		Thread.sleep(10000);
 		driver.close();
+		
+		System.out.println("TEST COMPLETED");
 			
 			
 			
